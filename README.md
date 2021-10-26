@@ -11,6 +11,7 @@ Upon initial presentation of the results, it was discovered that some of the nin
 ### District Summary
 
 The overall district statistics changed minimally:
+    
     * The passing math % changed from 75 to 74.8
 
     * The passing reading % changed from 85.8 to 85.7
@@ -20,6 +21,7 @@ The overall district statistics changed minimally:
 ### School Summary
 
 After removing the ninth grade scores, the Thomas High School scores changed as follows:
+    
     * The passing math % changed from 93.27 to 93.19
 
     * The passing reading % changed from 97.31 to 97.02
@@ -29,6 +31,7 @@ After removing the ninth grade scores, the Thomas High School scores changed as 
 ### Thomas High School's Performance
 
 After removing the ninth graders' math and reading scores, Thomas High School's performance relative to the other schools in the district was as follows:
+    
     * Thomas High School's ranking in reading changed from first to third place
 
     * Thomas High School's ranking in math remained in seventh place
