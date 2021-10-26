@@ -86,5 +86,6 @@ Although it may appear that the percentages were minimally affected, especially 
 #### Top Five Schools by Overall Passing Rate
 ![top_schools_by_passing_rate](https://user-images.githubusercontent.com/90982811/138800709-0c5aba1f-cc39-4e9e-a38d-9004da1aa764.png)
 
-
+#### Scores by Spending Ranges
+![scores_by_spending_per_student](https://user-images.githubusercontent.com/90982811/138801931-0eabb3ed-381e-40fa-afee-9bc3131bed66.png)
 
