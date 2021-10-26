@@ -42,13 +42,22 @@ After removing the ninth graders' math and reading scores, Thomas High School's 
 
 Replacing the ninth grade scores with NaN had the following affect:
 
-    * No change in the math and reading scores by grade other than changing the 9th grade score to "nan."  All other grades for Thomas High School and other high schools remained the same.
+    * No change in the math and reading scores by grade other than changing the 9th grade score to "nan."  
 
-    * Upon initial inspection, it appears that the scores by school spending did not change since the percentages are rounded to the nearest whole number.  The passing percentages for the spending range of $630-$644 per student changed minimally from 73.48 to 73.46 for math, 84.39 to 84.32 for reading, and from 62.86 to 62.78 for the overall passing rate.
+    * The passing percentages for the spending range of $630-$644 per student changed from:
+        * 73.48 to 73.46 for math
+        * 84.39 to 84.32 for reading
+        * 62.86 to 62.78 for the overall passing rate
     
-    * The scores by school size return the same whole number percentages.  The passing percentages for the medium (1000-2000) school size changed minimally from 93.60 to 93.58 for math, 96.79 to 96.73 for reading, and from 90.62 to 90.56 for the overall passing rate. 
+    * The passing percentages for the medium (1000-2000) school size changed from:
+        * 93.60 to 93.58 for math
+        * 96.79 to 96.73 for reading
+        * 90.62 to 90.56 for the overall passing rate
     
-    * The scores by school type return the same whole number percentages.  The passing percentages for Charter schools changed minimally from 93.62 to 93.61 for math, 96.59 to 96.55 for reading, and from 90.43 to 90.39 for the overall passing rate.
+    * The passing percentages for Charter schools changed from:
+        * 93.62 to 93.61 for math
+        * 96.59 to 96.55 for reading
+        * 90.43 to 90.39 for the overall passing rate
 
 ## Summary of Changes to the School District Analysis
 
@@ -60,7 +69,7 @@ The overall percentage for district students for passing both math and reading c
 
 When grouping the scores by the spending per student, school size, and by type of school, the grouping by spending per student was most affected.  The overall percentage of passing scores in both math and reading for students in schools within the $630-$644 spending range changed from 62.86 to 62.78.
 
-Although it may appear that the percentages were minimally affected, especially when looking at whole numbers, it is evident that the ninth grade scores for one school were high enough to not only affect Thomas High School's scores but the overall statistics of the 15 school district.
+Although it may appear that the percentages were minimally affected, especially when looking at whole numbers, it is evident that the ninth grade scores for one school were high enough to not only affect Thomas High School's scores but the overall statistics of the school district of 15 high schools.
 
 
 
