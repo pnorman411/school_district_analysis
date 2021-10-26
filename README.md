@@ -17,6 +17,8 @@ The overall district statistics changed minimally:
     * The passing reading % changed from 85.8 to 85.7
 
     * The overall passing % for both subjects changed from 65.2 to 64.9
+    
+![district_summary](https://user-images.githubusercontent.com/90982811/138800452-b7bda7ae-c585-418a-bd9d-37b6a87ef239.png)
 
 ### School Summary
 
@@ -27,6 +29,8 @@ After removing the ninth grade scores, the Thomas High School scores changed as 
     * The passing reading % changed from 97.31 to 97.02
 
     * The overall passing % for both subjects changed from 90.95 to 90.63
+    
+![school_summary](https://user-images.githubusercontent.com/90982811/138800490-8e8ac568-fb79-4a76-a043-a06fac0df27f.png)
 
 ### Thomas High School's Performance
 
@@ -58,6 +62,10 @@ Replacing the ninth grade scores with NaN had the following affect:
         * 93.62 to 93.61 for math
         * 96.59 to 96.55 for reading
         * 90.43 to 90.39 for the overall passing rate
+        
+![average_math_by_grade](https://user-images.githubusercontent.com/90982811/138800603-56f7dece-af32-41eb-a85b-cb30c6388f44.png)
+  
+![average_reading_by_grade](https://user-images.githubusercontent.com/90982811/138800619-c0106f65-ad60-4e35-96ee-57684c835320.png)
 
 ## Summary of Changes to the School District Analysis
 
@@ -71,7 +79,7 @@ When grouping the scores by the spending per student, school size, and by type o
 
 Although it may appear that the percentages were minimally affected, especially when looking at whole numbers, it is evident that the ninth grade scores for one school were high enough to not only affect Thomas High School's scores but the overall statistics of the school district of 15 high schools.
 
-
+![top_schools_by_passing_rate](https://user-images.githubusercontent.com/90982811/138800709-0c5aba1f-cc39-4e9e-a38d-9004da1aa764.png)
 
 
 
