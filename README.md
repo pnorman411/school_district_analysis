@@ -31,7 +31,7 @@ After removing the ninth grade scores, the Thomas High School scores changed as 
 
     * The overall passing % for both subjects changed from 90.95 to 90.63
     
-#### School Summary    
+#### School Summary Dataframe    
 ![school_summary](https://user-images.githubusercontent.com/90982811/138800490-8e8ac568-fb79-4a76-a043-a06fac0df27f.png)
 
 ### Thomas High School's Performance
